@@ -1,5 +1,1 @@
-langflow==1.4.2
-protobuf==4.25.3
-httplib2==0.20.2
-gunicorn==22.0.0
-pyparsing==2.4.7
+langchain==0.1.15
