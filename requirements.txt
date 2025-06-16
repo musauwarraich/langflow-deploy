@@ -1,9 +1,6 @@
 langflow==1.4.2
-langchain==0.1.15
-openai==1.21.1
 protobuf==4.25.3
-grpcio==1.59.0
-grpcio-tools==1.59.0
-requests==2.32.4
-httpx==0.28.1
+urllib3==1.26.16
+httplib2==0.20.2
 gunicorn==22.0.0
+pyparsing==2.4.7
