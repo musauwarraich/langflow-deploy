@@ -4,7 +4,6 @@ grpcio==1.59.0
 grpcio-tools==1.59.0
 urllib3==1.26.16
 requests==2.31.0
-httpx==0.24.1
 httplib2==0.20.2
 gunicorn==22.0.0
 pyparsing==2.4.7
