@@ -1,1 +1,1 @@
-web: langflow run --host 0.0.0.0 --port 10000 --dev
+web: langflow run --host 0.0.0.0 --port $PORT --dev
