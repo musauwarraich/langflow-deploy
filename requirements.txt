@@ -16,3 +16,4 @@ cryptography==43.0.3
 cattrs==24.1.2
 build==1.2.1
 bce-python-sdk==0.9.25
+decorator==5.1.1
