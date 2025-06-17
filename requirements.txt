@@ -15,3 +15,4 @@ cffi==1.15.1
 cryptography==43.0.3
 cattrs==24.1.2
 build==1.2.1
+bce-python-sdk==0.9.25
